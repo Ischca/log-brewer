@@ -1,0 +1,18 @@
+[[package]]
+name = "strip-ansi"
+version = "0.1.1"
+description = "Strip ANSI escape sequences from a string"
+category = "main"
+optional = false
+python-versions = ">=3.6,<4.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "6edab35ee5f7c729c3e538e8e21134ebf33ad6970d407981477ab32f84b93cc6"
+
+[metadata.files]
+strip-ansi = [
+    {file = "strip-ansi-0.1.1.tar.gz", hash = "sha256:5d60f239cc8a37fdd52b43c3e66e893d45ba0423115db59eca0d2eef83b07729"},
+    {file = "strip_ansi-0.1.1-py3-none-any.whl", hash = "sha256:9f55280e1b0ba84dac49d4f18aa6b51b90ff766b22e4918ffc01cc87b394ecd1"},
+]

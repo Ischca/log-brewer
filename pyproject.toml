@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "log-brewer"
+version = "0.1.0"
+description = ""
+authors = ["ischca <03.suiseiseki@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+strip-ansi = "^0.1.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
